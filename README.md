@@ -5,3 +5,6 @@
 3. Create a database named `taskmanager` in phpMyAdmin
 4. Import the `database.sql` file
 5. Visit `http://localhost/taskmanager/` in your browser
+
+## Access URL
+https://comp3421task-manager.kesug.com/
