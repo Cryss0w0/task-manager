@@ -7,4 +7,4 @@
 5. Visit `http://localhost/taskmanager/` in your browser
 
 ## Access URL
-https://comp3421task-manager.kesug.com/
+http://comp3421task-manager.kesug.com/
